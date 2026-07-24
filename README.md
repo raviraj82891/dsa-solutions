@@ -28,7 +28,7 @@
 
 | # | Problem | Platform | Difficulty | Language |
 |:-:|:--------|:---------|:-----------|:---------|
-| 1 | 4Sum | 🟡 LeetCode | Medium | C++ |
+| 1 | Combination Sum | 🟡 LeetCode | Medium | C++ |
 
 ## 📁 Repository Structure
 
