@@ -28,7 +28,7 @@
 
 | # | Problem | Platform | Difficulty | Language |
 |:-:|:--------|:---------|:-----------|:---------|
-| 1 | Longest Palindromic Substring | 🟡 LeetCode | Medium | C++ |
+| 1 | 4Sum | 🟡 LeetCode | Medium | C++ |
 
 ## 📁 Repository Structure
 
