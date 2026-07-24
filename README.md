@@ -28,7 +28,7 @@
 
 | # | Problem | Platform | Difficulty | Language |
 |:-:|:--------|:---------|:-----------|:---------|
-| 1 | Number of Unique XOR Triplets II | 🟡 LeetCode | Medium | C++ |
+| 1 | Longest Palindromic Substring | 🟡 LeetCode | Medium | C++ |
 
 ## 📁 Repository Structure
 
