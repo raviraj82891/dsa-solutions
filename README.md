@@ -2,35 +2,36 @@
 
 > Auto-synced by [DSA AutoSync](https://github.com/dsa-autosync) — solving one problem at a time.
 
-![Total Solved](https://img.shields.io/badge/Total%20Solved-3-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white) ![Streak](https://img.shields.io/badge/🔥%20Streak-2%20days-FF6B35?style=for-the-badge) ![Longest](https://img.shields.io/badge/🏆%20Longest-2%20days-FFD700?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-4-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white) ![Streak](https://img.shields.io/badge/🔥%20Streak-2%20days-FF6B35?style=for-the-badge) ![Longest](https://img.shields.io/badge/🏆%20Longest-2%20days-FFD700?style=for-the-badge)
 
 ## 📊 Difficulty Breakdown
 
 | Difficulty | Count | Progress |
 |:----------:|:-----:|:--------:|
-| ![Easy](https://img.shields.io/badge/Easy-%2300B8A3?style=flat-square) | **2** | `█████████████░░░░░░░` 67% |
-| ![Medium](https://img.shields.io/badge/Medium-%23FFC01E?style=flat-square) | **1** | `███████░░░░░░░░░░░░░` 33% |
+| ![Easy](https://img.shields.io/badge/Easy-%2300B8A3?style=flat-square) | **2** | `██████████░░░░░░░░░░` 50% |
+| ![Medium](https://img.shields.io/badge/Medium-%23FFC01E?style=flat-square) | **2** | `██████████░░░░░░░░░░` 50% |
 | ![Hard](https://img.shields.io/badge/Hard-%23FF375F?style=flat-square) | **0** | `░░░░░░░░░░░░░░░░░░░░` 0% |
 
 ## 🏢 Platform Distribution
 
 | Platform | Solved |
 |:---------|:------:|
-| 🟡 LeetCode | **3** |
+| 🟡 LeetCode | **4** |
 
 ## 🛠️ Languages Used
 
 | Language | Solutions |
 |:---------|:---------:|
-| C++ | **3** |
+| C++ | **4** |
 
 ## 📅 Recent Activity
 
 | # | Problem | Platform | Difficulty | Language |
 |:-:|:--------|:---------|:-----------|:---------|
-| 1 | Maximum Product of Two Digits | 🟡 LeetCode | Easy | C++ |
-| 2 | Longest Common Prefix | 🟡 LeetCode | Easy | C++ |
-| 3 | Combination Sum | 🟡 LeetCode | Medium | C++ |
+| 1 | Find the Maximum Number of Elements in Subset | 🟡 LeetCode | Medium | C++ |
+| 2 | Maximum Product of Two Digits | 🟡 LeetCode | Easy | C++ |
+| 3 | Longest Common Prefix | 🟡 LeetCode | Easy | C++ |
+| 4 | Combination Sum | 🟡 LeetCode | Medium | C++ |
 
 ## 📁 Repository Structure
 
